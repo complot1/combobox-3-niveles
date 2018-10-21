@@ -1,2 +1,4 @@
 # combobox-3-niveles
-Un ComboBox de 3 niveles modificado con la base de Perú(Departamento,Provincia,Distrito)
+Este combobox es sacado de un repositorio y modificado y actualizaco con la base de datos del Peru INEI , la cual salen los departamentos , provincias y distritos de los lugares
+
+
